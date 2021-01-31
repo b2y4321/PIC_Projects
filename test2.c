@@ -1,1 +1,0 @@
-#define _XTAL_FREQ 1600000
